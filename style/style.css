@@ -1,0 +1,27 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 180px !important;
+}
+
+.chart-max-label {
+    vertical-align: top;
+    text-align: left !important;
+}
+
+.chart-min-label {
+    vertical-align: bottom;
+    text-align: left !important;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
